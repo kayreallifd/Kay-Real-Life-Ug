@@ -1,0 +1,10 @@
+{
+  "name": "kay-real-life-ug",
+  "main": "App.js",
+  "dependencies": {
+    "expo-av": "^13.0.0",
+    "expo-document-picker": "^11.0.0",
+    "react": "18.2.0",
+    "react-native": "0.72.0"
+  }
+}
